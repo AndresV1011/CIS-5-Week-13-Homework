@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Run both programs, then explain why each helper takes `const &` and what your struct's fields hold.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/file/d/1-OE8OjJKrgfKBfCInHAQkdu9-dYBVPsy/view?usp=sharing
 
 ## What to build
 
@@ -34,6 +34,23 @@ Two small programs.
 | Personal Budget | `Expense { category, amount }` |
 | Mini Bank | `Account { name, balance }` |
 
+
+Part 1:
+first: Andres
+Last: Valenzuela
+Hello, Andres Valenzuela!
+Length:17
+Initial: AV
+
+Part 2:
+Track: STudent record
+Struct: Student {name, id, gpa}
+Field: Name to store student name, id to store student's ID number, gpa to store students GPA
+
+Features:
+1. list names and info
+2. find student by id number
+3. calculate average gpa of all students
 ## Requirements
 
 - Use the two Part 1 signatures above exactly
